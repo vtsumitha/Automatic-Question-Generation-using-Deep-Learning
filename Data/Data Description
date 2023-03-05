@@ -1,0 +1,5 @@
+Multi 30K Dataset for text Translation:
+
+We used the Multi30K dataset for training and testing the model. The dataset has about 29K training
+samples and 10K testing samples.
+
