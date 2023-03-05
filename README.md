@@ -1,0 +1,5 @@
+# Deep Learning - Final Project
+
+# END-TO-END QUESTION GENERATION MODEL USING DEEP LEARNING
+
+Assessments are an integral part of any education system. Exams are a way to measure a person’s knowledge and skill in any subject. Manually creating questions is a difficult task that involves knowledge, expertise, and resources. In general, professors invest a lot of time in framing questions and making sure it aligns well with the course syllabus. Furthermore, some competitive exams require translating text from one language to another to make sure the questions like text comprehension are unique. Our project aims to solve these problems by translating the given text into English and then creating a summary of the text. Additionally, our system will also automatically generate multiple-choice questions from the translated and summarized text. We used transformers with multi-head attention to translate the text. Furthermore, encoder-decoder model with single-head attention was used to summarize the text. Finally, we used BERT to generate keywords and word-to-vector to generate distractors for  multi-choice questions.  
